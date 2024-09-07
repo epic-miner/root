@@ -18,9 +18,9 @@ fi
 if [ ! -e $ROOTFS_DIR/.installed ]; then
   echo "#######################################################################################"
   echo "#"
-  echo "#                                      Foxytoux INSTALLER"
+  echo "#                              
   echo "#"
-  echo "#                           Copyright (C) 2024, RecodeStudios.Cloud"
+  echo "#      don't forget to subscribe that https://www.youtube.com/@epic_miner
   echo "#"
   echo "#"
   echo "#######################################################################################"
