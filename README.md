@@ -39,7 +39,7 @@ This Foxytoux Installer script is released under the [MIT License](LICENSE).
 
 ## Credits
 
-Foxytoux Installer is developed and maintained by RecodeStudios.Cloud.
+it is developed and maintained by RecodeStudios.Cloud.
 This installer has been made possible thanks to [dxomg](https://github.com/dxomg) for his proot code
 
 ---
